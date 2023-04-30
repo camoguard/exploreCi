@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/vsRoot/ciTestConsoleApp/.vs/ciTestConsoleApp/FileContentIndex
+/vsRoot/ciTestConsoleApp/.vs/ciTestConsoleApp/v17
+/vsRoot/ciTestConsoleApp/ConsoleApp1/bin/Debug/net6.0
+/vsRoot/ciTestConsoleApp/ConsoleApp1/obj
+/vsRoot/ciTestConsoleApp/UnitTests/bin/Debug/net6.0
+/vsRoot/ciTestConsoleApp/UnitTests/obj
